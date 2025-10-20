@@ -3,6 +3,8 @@
 Created on Thu Oct  8 23:40:31 2020
 
 @author: mehedi.md.hasan
+
+Test for CLI
 """
 
 from detectors.yaml_detectors.skip_linting_yaml_detector import SkipLintingYamlDetector
